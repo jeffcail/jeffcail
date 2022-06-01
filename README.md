@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 ## Languages
 <a href="https://github.com/jeffcail">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcail&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcail&theme=dark" />
 </a>
