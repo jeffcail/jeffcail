@@ -1,5 +1,5 @@
 <!--
-**duktig666/duktig666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeffcail/jeffcail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 ## Languages
 <a href="https://github.com/jeffcail">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcail&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcail&theme=vue" />
 </a>
