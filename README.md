@@ -1,8 +1,6 @@
 # Hi,I'm jeffcail! 👋
 太阳上的雨天
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeffcail&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
-
 - 🔭 I’m currently working on **Hangzhou**.
 - 💬 Ask me about PHP or Golang technology.
 - ⚡ Fun fact: 
