@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   - Watch science and technology weekly.
 
 ## Follow Me
-![访问个人主页数量](https://github.com/?username=jeffcail&color=green)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/jeffcail)
 [![个人博客](https://img.shields.io/badge/-太阳上的雨天个人博客（blog.caixiaoxin.cn）-c14438?style=flat-square&logo=B&logoColor=white)](http://blog.caixiaoxin.cn/)
 [![知乎](https://img.shields.io/badge/-知乎-c14438?style=flat-square&logo=B&logoColor=blue)](https://www.zhihu.com/people/cai-cai-55-44-82)
