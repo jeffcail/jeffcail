@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Author is jeffcail 👋
 - 🎓 CSU(master's degree)
 - 📖 [**jeffcail's blog**](http://blog.caixiaoxin.cn)
-- 📖 [**jeffcail's CSDN**](caixiaoxin.blog.csdn.net)
+- 📖 [**jeffcail's CSDN**](https://caixiaoxin.blog.csdn.net/)
 - 📖 [**jeffcail's 知乎**](https://www.zhihu.com/people/cai-cai-55-44-82)
 - 🔭 Computer vision(目标检测-语义分割-分类)
 - ❤  Program language: C PHP C++ (Go Rust)-toLearn 
