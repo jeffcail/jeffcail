@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ![leilei's github stats](https://github-readme-stats.vercel.app/api?username=jeffcail&show_icons=true)
 -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=jeffcail&show_icons=true@theme=dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ## Author is jeffcail 👋
 - 🎓 CSU(master's degree)
