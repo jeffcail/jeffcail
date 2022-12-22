@@ -9,5 +9,3 @@
 - ❤  Program language: C PHP Go Rust-toLearn 
 
 <img src="https://github-profile-trophy.vercel.app/?username=jeffcail&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcail&hide=html)
