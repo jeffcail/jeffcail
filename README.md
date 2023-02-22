@@ -5,7 +5,6 @@
 - 📖 [**jeffcail's blog**](http://blog.caixiaoxin.cn)
 - 📖 [**jeffcail's CSDN**](https://caixiaoxin.blog.csdn.net/)
 - 📖 [**jeffcail's 知乎**](https://www.zhihu.com/people/cai-cai-55-44-82)
-- 🔭 Computer vision(目标检测-语义分割-分类)
 - ❤  Program language: C PHP Go Rust-toLearn 
 
 <img src="https://github-profile-trophy.vercel.app/?username=jeffcail&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
