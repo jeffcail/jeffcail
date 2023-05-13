@@ -6,6 +6,6 @@
 - 📖 [**jeffcail's CSDN**](https://caixiaoxin.blog.csdn.net/)
 - 📖 [**jeffcail's 知乎**](https://www.zhihu.com/people/cai-cai-55-44-82)
 - 📖 [**jeffcail's 51CTO**](https://blog.51cto.com/u_15524534)
-- ❤  Program language: C/C++、Go、PHP、Vue 
+- ❤  Program language: c/c++、go、java、php、vue 
 
 <img src="https://github-profile-trophy.vercel.app/?username=jeffcail&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
