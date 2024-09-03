@@ -4,6 +4,7 @@
 ## Author is jeffcail 👋
 - 🎓 CSU(master's degree)
 - 📖 [**jeffcail's blog**](http://blog.caixiaoxin.cn)
+- 🔧 [**在线sql转xorm工具**](http://sql2xorm.caixiaoxin.cn)
 <!-- - 📖 [**jeffcail's CSDN**](https://caixiaoxin.blog.csdn.net/)
 - 📖 [**jeffcail's 知乎**](https://www.zhihu.com/people/cai-cai-55-44-82)
 - 📖 [**jeffcail's 51CTO**](https://blog.51cto.com/u_15524534) -->
