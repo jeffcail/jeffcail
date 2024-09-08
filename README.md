@@ -3,7 +3,7 @@
 
 ## Author is jeffcail 👋
 - 🎓 CSU(master's degree)
-- 🔗 [**jeffcail'home**]([http://www.caixiaoxin.cn])
+- 🔗 [**jeffcail'home**](http://www.caixiaoxin.cn)
 - 🔗 [**jeffcail's blog**](http://blog.caixiaoxin.cn)
 - 🔧 [**在线sql转xorm工具**](http://sql2xorm.caixiaoxin.cn)
 - 🔗 [**后台通用模版在线体验**](http://admin-template.caixiaoxin.cn)
